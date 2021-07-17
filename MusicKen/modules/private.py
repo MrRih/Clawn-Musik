@@ -40,8 +40,9 @@ Dikekolah oleh @{OWNER}
                 [
                     InlineKeyboardButton("🌟 GITHUB 🌟", url=f"{SOURCE_CODE}")
                 ]
-[
-                    InlineKeyboardButton("❄️ OWNER ❄️", url=f"https://t.me/{OWNER}")
+                
+                [
+                    InlineKeyboardButton("🔘 OWNER 🔘", url=f"https://t.me/{OWNER}")
                 ]        
             ]
         ),
