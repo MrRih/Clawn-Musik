@@ -57,7 +57,7 @@ Khusus strings pyrogram
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/mrrih/Clawn-Musik
-$ cd Music-Ken
+$ cd MusicKen
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
