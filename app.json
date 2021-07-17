@@ -2,7 +2,7 @@
   "name": "Music Ken",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/kenkannih/Music-KenKan",
+  "repository": "https://github.com/MrRih/Clawn-Musik",
   "stack": "container",
   "buildpacks": [
    {
@@ -30,17 +30,17 @@
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "musikkugroup"
+      "value": "Musikzamm"
     },
     "UPDATES_CHANNEL": {
       "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "musikkuchannel"
+      "value": "Virtualskuyy"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "MUSIK KU"
+      "value": "ZAM PROJECT MUSIC"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten Music Player Anda tanpa @.",
@@ -57,7 +57,7 @@
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/23a3b3708c7e1c04e1dfb.png"
+      "value": "https://telegra.ph/file/ee200852e2e77b32a13a2.png"
     },        
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau @kenkanrobot",
@@ -79,7 +79,7 @@
     "DURATION_LIMIT": {
       "description": "Batas durasi audio maksimal untuk download (minutes).",
       "required": true,
-      "value": "15"
+      "value": "180"
     }
   }
 }
