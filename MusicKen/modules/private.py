@@ -39,10 +39,8 @@ Dikekolah oleh @{OWNER}
                         "ᴄʜᴀɴɴᴇʟ 📣", url=f"https://t.me/{UPDATES_CHANNEL}")],
                 [
                     InlineKeyboardButton("🌟 GITHUB 🌟", url=f"{SOURCE_CODE}"),
-                ]  
-                [
-                    InlineKeyboardButton("🔘 OWNER 🔘", url=f"https://t.me/{OWNER}")
-                ]              
+ 
+                    InlineKeyboardButton("🔘 OWNER 🔘", url=f"https://t.me/{OWNER}")],            
             ]
         ),
         reply_to_message_id=message.message_id
