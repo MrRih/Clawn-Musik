@@ -2,10 +2,10 @@
 
 # Music-KenKan
 <p align="center">
-  <img src="https://telegra.ph/file/c8227ff23fa75b9d2b9f7.jpg">
+  <img src="https://telegra.ph/file/ac5fdbe55380b2eadec66.png">
 </p>
 <h1 align="center">
-  <b>🎶 MUSIK KEN KAN</b>
+  <b>🎶 Clawn Musik</b>
 </h1>
 
 ![Repo 👁‍🗨](https://komarev.com/ghpvc/?username=kenkannih&color=red&style=flat-square&label=DILIHAT+👁‍🗨)
@@ -29,19 +29,19 @@
 - Channel Music Play
 ## TELEGRAM
 
-<b>OWNER [KEN KAN](https://t.me/kenkanasw)</b>
+<b>OWNER [Whatever](https://t.me/tehmanisangett)</b>
 
-<b>GROUP MUSIKKU
-[@musikkugroup](https://t.me/mausikkugroup)</b>
+<b>GROUP MUSIK Clawn
+[@musikzamm](https://t.me/Musikzamm)</b>
 
-<b>CHANNEL MUSIKKU [@musikkuchannel](https://t.me/musikkuchannel)</b>
+<b>GROUP VIRTUAL [@virtualskuyy](https://t.me/Virtualskuyy)</b>
 
-<b>TEMUKAN DI TELEGRAM [@Musiksayabot](https://t.me/Musiksayabot)</b>
+<b>TEMUKAN DI TELEGRAM [@Clawnmusicbot](https://t.me/ClawnMusicBot)</b>
 
 ### 💜 HEROKU
 
 <b>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenkannih/Music-KenKan"><img src="https://img.shields.io/badge/BUAT DIHEROKU-blue?style=for-the-badge&logo=heroku"width="310" height="50"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mrrih/Clawn-Musik"><img src="https://img.shields.io/badge/BUAT DIHEROKU-blue?style=for-the-badge&logo=heroku"width="310" height="50"/></a></p>
 </b>
 
 ## VIA Repl.it
@@ -56,8 +56,8 @@ Khusus strings pyrogram
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/kenkannih/Music-KenKan
-$ cd Music-Ken
+$ git clone https://github.com/mrrih/Clawn-Musik
+$ cd Clawn-Musik
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
@@ -124,4 +124,4 @@ DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/
 - [ImJanindu](https://github.com/ImJanindu): 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
-
+- [MrRih](https://github.com/MrRih)
