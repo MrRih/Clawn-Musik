@@ -34,7 +34,7 @@
 <b>GROUP MUSIK Clawn
 [@musikzamm](https://t.me/Musikzamm)</b>
 
-<b>GROUP VIRTUAL [@virtualskuyy](https://t.me/Virtualskuyy)</b>
+<b>GROUP VIRTUAL [@samalete](https://t.me/samalete)</b>
 
 <b>TEMUKAN DI TELEGRAM [@Clawnmusicbot](https://t.me/ClawnMusicBot)</b>
 
