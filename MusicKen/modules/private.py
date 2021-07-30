@@ -12,6 +12,7 @@ logging.basicConfig(level=logging.INFO)
     & ~ filters.edited
 )
 async def start_(client: Client, message: Message):
+    await message.reply_sticker("CAACAgUAAxkBAAFF-KFg-jaEvlhu_kNknYQjxsuyDvp--AACjAMAAtpWSVeocCICILIfRSAE")
     await message.reply_text(
         f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/de33d72231daa13e6467c.jpg)
 Dikekolah oleh @{OWNER}
@@ -19,7 +20,6 @@ Dikekolah oleh @{OWNER}
 ☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
 🔘 Memutar lagu di group 
 🔘 Mendownload lagu
-🔘 Mendownload video
 🔘 Mencari link youtube
 🔘 Mencari lirik lagu
 ┈───────────────────┈
@@ -116,9 +116,7 @@ async def ghelp(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "🟡 Klik di sini untuk bantuan 🟡", url=f"https://t.me/{BOT_USERNAME}?start"
-                    )
+                    InlineKeyboardButton("⚔️ ʙᴀɴᴛᴜᴀɴ", url = "https://telegra.ph/PANDUAN-MUSIK-07-23")
                 ]
             ]
         ),

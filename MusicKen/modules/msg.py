@@ -102,7 +102,6 @@ Dikekolah oleh @{OWNER}
 ☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
 🔘 Memutar lagu di group 
 🔘 Mendownload lagu
-🔘 Mendownload video
 🔘 Mencari link youtube
 🔘 Mencari lirik lagu
 ┈───────────────────┈

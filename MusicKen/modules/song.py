@@ -34,7 +34,7 @@ def song(client, message):
         query += " " + str(i)
     print(query)
     m = message.reply("🔎 **Sedang Mencari Lagu...**")
-    ydl_opts = {"format": "bestaudio[ext=m4a]"}
+    ydl_opts = {"format": "bestaudio/best"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
         link = f"https://youtube.com{results[0]['url_suffix']}"
@@ -209,7 +209,7 @@ def time_formatter(milliseconds: int) -> str:
 
 
 ydl_opts = {
-    "format": "bestaudio/best",
+    "format": "141/bestaudio[ext=m4a]",
     "writethumbnail": True,
     "postprocessors": [
         {
